@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Bullet.js">
+    <Files>
+      <File FileName="Assets\Bullet.js" Line="20" Column="31" />
+      <File FileName="Assets\LineofSight.js" Line="1" Column="1" />
+      <File FileName="Assets\MoveBall.js" Line="34" Column="6" />
+      <File FileName="Assets\CollisionExplode.js" Line="1" Column="1" />
+      <File FileName="Assets\Death.js" Line="10" Column="2" />
+      <File FileName="Assets\DestroyBullet.js" Line="7" Column="14" />
+      <File FileName="Assets\CannonShoot.js" Line="36" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

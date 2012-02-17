@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{898EE50F-F519-B9EE-C232-7E3597CDAD5B}") = "Pacman", "Assembly-CSharp-firstpass.csproj", "{5525D837-DECC-4481-5D8F-A9D5EE6DB1A6}"
+EndProject
+Project("{898EE50F-F519-B9EE-C232-7E3597CDAD5B}") = "Pacman", "Assembly-UnityScript-firstpass.unityproj", "{6D7AEE16-E25B-79BC-153D-F7E3A04DE276}"
+EndProject
+Project("{898EE50F-F519-B9EE-C232-7E3597CDAD5B}") = "Pacman", "Assembly-UnityScript.unityproj", "{204087B6-0AAA-7D6B-F7BC-904643B52896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5525D837-DECC-4481-5D8F-A9D5EE6DB1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5525D837-DECC-4481-5D8F-A9D5EE6DB1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5525D837-DECC-4481-5D8F-A9D5EE6DB1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5525D837-DECC-4481-5D8F-A9D5EE6DB1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7AEE16-E25B-79BC-153D-F7E3A04DE276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7AEE16-E25B-79BC-153D-F7E3A04DE276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7AEE16-E25B-79BC-153D-F7E3A04DE276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7AEE16-E25B-79BC-153D-F7E3A04DE276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204087B6-0AAA-7D6B-F7BC-904643B52896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204087B6-0AAA-7D6B-F7BC-904643B52896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204087B6-0AAA-7D6B-F7BC-904643B52896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204087B6-0AAA-7D6B-F7BC-904643B52896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
